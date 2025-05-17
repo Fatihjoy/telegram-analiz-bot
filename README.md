@@ -1,0 +1,1 @@
+# QA Bot v5 - Tek satırda ve doğru kaçışlı f-string. Bu sürüm çalışacaktır.
