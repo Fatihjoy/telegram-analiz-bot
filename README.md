@@ -1,0 +1,1 @@
+# PDF Bölüm Silme Destekli Bot\nPDF'ler başlıkla saklanır, listelenebilir ve tek tek silinebilir.
