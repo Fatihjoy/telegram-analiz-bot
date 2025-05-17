@@ -1,0 +1,1 @@
+# YLSY QA Bot (Kelime Öncelikli)\nÖnce ortak kelime sayısına, sonra fuzzy benzerliğe göre en uygun cevabı verir.
