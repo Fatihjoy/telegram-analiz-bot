@@ -1,2 +1,2 @@
-# Telegram Analiz Botu
-Bu bot, Telegram üzerinden PDF dosyası alıp OpenAI GPT-4 kullanarak soruları cevaplar.
+# Gelişmiş Telegram Analiz Botu
+Bu bot, adminlerin yüklediği içeriklere göre kullanıcılardan gelen soruları GPT-4 ile yanıtlar.
