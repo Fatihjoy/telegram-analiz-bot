@@ -1,1 +1,0 @@
-# Fuzzy Matching QA Telegram Bot\nTürkçe karakter sadeleştirme ve yakın eşleşme ile soru-cevap sistemi.
