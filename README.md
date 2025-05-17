@@ -1,1 +1,0 @@
-# Mesaj ve .txt destekli Telegram bilgi botu\nAdmin mesajla veya .txt dosyası ile içerik ekler. Kullanıcılar soru sorar.
