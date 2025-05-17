@@ -1,0 +1,1 @@
+# QA Bot v6 - f-string tek satıra düzeltildi, kaçış karakteri (\\n) ile birlikte.
