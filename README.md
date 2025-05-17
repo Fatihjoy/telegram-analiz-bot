@@ -1,1 +1,0 @@
-# QA Bot v4 - Hatalı satır düzeltildi (\\n ile). Artık f-string tamamıyla uyumlu.
