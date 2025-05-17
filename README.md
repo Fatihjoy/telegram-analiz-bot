@@ -1,0 +1,1 @@
+# QA Bot (Stopword filtreli ve düzgün f-string)\nKelime eşleşmeli, hatasız sürüm.
