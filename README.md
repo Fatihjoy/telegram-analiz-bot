@@ -1,0 +1,1 @@
+# QA Bot v3 - Stopwords güncellendi, eşik düşürüldü (>= 50), 'nedir' artık filtrelenmiyor.
