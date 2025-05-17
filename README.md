@@ -1,0 +1,1 @@
+# QA Bot v2 - Düzgün f-string ile tamir edilmiş, stopword filtreli eşleşme.
