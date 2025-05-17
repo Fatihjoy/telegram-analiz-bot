@@ -1,1 +1,0 @@
-# YLSY QA Bot (Geliştirilmiş)\n%60 eşik + None kontrolü + log destekli debug sistemi.
