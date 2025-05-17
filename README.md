@@ -1,1 +1,0 @@
-# QA Bot (Stopword filtreli)\nKelime bazlı eşleşmeyi stopword filtresiyle güçlendirir, eşleşen soruyu açıkça gösterir.
